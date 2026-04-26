@@ -54,7 +54,3 @@ python main.py
 * 4 → Exit
 
 ---
-
-## 📌 Requirements
-
-* Python 3.x
